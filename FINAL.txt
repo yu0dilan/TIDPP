@@ -1,0 +1,9 @@
+$ git log
+commit e6efbe9642548b1052a5ec34208c81926eea6ff5 (HEAD -> branch2, origin/master, origin/branch5, origin/branch4, origin/branch3, origin/branch2, master, branch5, branch4, branch3, branch1)
+Author: yu0dilan <lokygirl184@gmail.com>
+Date:   Mon Sep 12 15:37:17 2022 +0300
+
+    first commit
+
+Iulia@DESKTOP-EH5T9BF MINGW64 /c/Git/Lab1 (branch2)
+$
